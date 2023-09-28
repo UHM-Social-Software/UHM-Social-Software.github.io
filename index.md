@@ -58,4 +58,4 @@ Phase-1 Mockup is complete. Phase-2 is currently underway, which includes settin
 
 ## About Us
 
-[Justin Lisoway](https://justinlisoway.github.io/) - Graduate student at the University of Hawaiʻi at Mānoa studying Information and Computer Sciences. Graduated UHM with MS and BBA in finance.
+[Justin Lisoway](https://justinlisoway.github.io/) - Graduate student at the University of Hawaiʻi at Mānoa studying Information and Computer Sciences. Graduated UH Manoa with an MS and BBA in finance.
