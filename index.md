@@ -18,25 +18,34 @@ By making connections on campus more easily, forming study groups, finding new f
 
 When you first open the app, you are asked to sign in using your @hawaii.edu login information:
 
-<img width="1000px" class="img-fluid" src="landing.png">
-
+<img src="./screenshots/phase-1/screenshot-1.png" width="25%">
+ 
 After signing in, you are directed to your profile page, showing your currently enrolled classes or groups (depending on which button is clicked):
 
-<img width="1000px" class="img-fluid" src="projectBrowser.png">
+<img src="./screenshots/phase-1/screenshot-2.png" width="25%">
+<img src="./screenshots/phase-1/screenshot-3.png" width="25%">
 
 Clicking on a class displays the students in that class:
 
+<img src="./screenshots/phase-1/screenshot-4.png" width="25%">
+
 Clicking on a group displays information related to that group:
 
-<img width="1000px" class="img-fluid" src="plantBrowser.png">
+<img src="./screenshots/phase-1/screenshot-5.png" width="25%">
 
 Navigating using the bottom navigation bar reveals the explore, messages, and settings pages. The explore page initially shows all groups created using the app, but the search feature (not currently implemented) will be able to search groups, students, and classes:
 
+<img src="./screenshots/phase-1/screenshot-6.png" width="25%">
 
-<img width="1000px" class="img-fluid" src="login.png">
+The Messages page is not currently implemented, however the settings pages allows students to edit their profile information:
 
-The Messages page is not currently implemented, however the settings pages allows students to edit their profile information, with links to create groups or view groups that you have created:
+<img src="./screenshots/phase-1/screenshot-8.png" width="25%">
 
+On this page, there are links to create groups or view groups that you have created:
+
+<img src="./screenshots/phase-1/screenshot-9.png" width="25%">
+<img src="./screenshots/phase-1/screenshot-10.png" width="25%">
+<img src="./screenshots/phase-1/screenshot-11.png" width="25%">
 
 ## About Us
 
