@@ -1,4 +1,3 @@
-
 # "Meet Your People" App
 
 ## Motivation
@@ -18,48 +17,52 @@ By making connections on campus more easily, forming study groups, finding new f
 
 When you first open the app, you are asked to sign in using your @hawaii.edu login information:
 
-<img src="./screenshots/phase-1/screenshot-1.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-9.png" width="25%">
  
-After signing in, you are directed to your profile page, showing your currently enrolled classes or groups (depending on which button is clicked). The classes, groups, and other information shown here depend on the currently logged in user:
+Currently, only valid email addresses that are in the database will allow a user to signin (passwords are ignored). After signing in, you are directed to your profile page, showing your currently enrolled classes or groups (depending on which button is clicked). The classes, groups, and other information shown here depend on the currently logged in user:
 
-<img src="./screenshots/phase-2/screenshot-1.png" width="25%">
-<img src="./screenshots/phase-2/screenshot-2.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-1.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-2.png" width="25%">
 
 Clicking on a class displays the students in that class:
 
-<img src="./screenshots/phase-2/screenshot-3.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-3.png" width="25%">
 
-Clicking on a group displays information related to that group:
+Clicking on a student displays that students profile page:
 
-<img src="./screenshots/phase-2/screenshot-4.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-11.png" width="25%">
 
-Navigating using the bottom navigation bar reveals the explore, messages, and settings pages. The explore page initially shows all groups created using the app, but the search feature (not currently implemented) will be able to search groups, students, and classes:
+Going back, clicking on a group displays information related to that group:
 
-<img src="./screenshots/phase-2/screenshot-5.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-4.png" width="25%">
 
-The Messages tab has a rough layout, but is not finalize functional yet:
+Navigating using the bottom navigation bar reveals the explore, messages, and settings pages. The explore page initially shows all groups created using the app, but the search feature (not currently implemented) will be able to search groups, students, and classes. You can also click on groups to view their page and join them:
+
+<img src="./screenshots/phase-3/screenshot-5.png" width="25%">
+
+The Messages tab has a rough layout, but is not finalized or functional yet:
 
 <img src="./screenshots/phase-2/screenshot-6.png" width="25%">
 
-The settings pages allows students to edit their profile information, or logout (returning the user to the signin page):
+The settings pages allows students to edit their profile information, or logout (returning the user to the signin page). All of these buttons are now functional.
 
-<img src="./screenshots/phase-1/screenshot-8.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-10.png" width="25%">
 
-On this page, there are links to create groups or view groups that you are the owner of:
+On the settings page, there are also buttons to create groups or view groups that you are the owner of. The forms in these pages are now fully functional.
 
 <img src="./screenshots/phase-1/screenshot-9.png" width="25%">
-<img src="./screenshots/phase-2/screenshot-7.png" width="25%">
-<img src="./screenshots/phase-2/screenshot-8.png" width="25%">
+<img src="./screenshots/phase-3/screenshot-8.png" width="25%">
+
 
 ## Installation
 
-[Phase-2 Repository](https://github.com/UHM-Social-Software/app/tree/phase-2-mockup)
+[Phase-3 Repository](https://github.com/UHM-Social-Software/app/tree/phase-3-mockup)
 
 To run this code, clone the repository to your local machine and invoke 'flutter run' on the app directory. You may also need to first install flutter and get dependencies (this can be done easily with intelliJ). Note: app is currently mocked-up to look best on the XCODE iOS iPhone 14 simulator.
 
 ## [Development status](https://github.com/orgs/UHM-Social-Software/projects/1)
 
-Phase-1 and Phase-2 Mockups are now complete. Phase-3 is currently underway, which includes transitioning to Riverpod Providers and continuing the UI development.
+The Phase-3 App is now complete. Phase-4 is currently underway, which includes a full system refactoring and moderate updates to the UI.
 
 ## About Us
 
