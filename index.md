@@ -55,11 +55,13 @@ On the settings page, there are also buttons to create groups or view groups tha
 
 
 ## Installation
+Phase 1: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-1-mockup)
 
-[Phase-1 Repository](https://github.com/UHM-Social-Software/app/tree/phase-1-mockup)
-[Phase-2 Repository](https://github.com/UHM-Social-Software/app/tree/phase-2-mockup)
-[Phase-3 Repository](https://github.com/UHM-Social-Software/app/tree/phase-3-mockup)
-[Phase-4 Repository](https://github.com/UHM-Social-Software/app/tree/phase-4-app)
+Phase 2: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-2-mockup)
+
+Phase 3: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-3-mockup)
+
+Phase 4: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-4-app)
 
 To run this code, clone the repository to your local machine and invoke 'flutter run' on the app directory. You may also need to first install flutter and get dependencies (this can be done easily with intelliJ). Note: app is currently mocked-up to look best on the XCODE iOS iPhone 14 simulator.
 
