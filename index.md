@@ -15,11 +15,12 @@ By making connections on campus more easily, forming study groups, finding new f
 
 ## Usage
 
-When you first open the app, you are asked to sign in using your @hawaii.edu login information:
+When you first open the app, you are asked to sign in or register:
 
-<img src="./screenshots/phase-3/screenshot-9.png" width="25%">
- 
-Currently, only valid email addresses that are in the database will allow a user to signin (passwords are ignored). After signing in, you are directed to your profile page, showing your currently enrolled classes or groups (depending on which button is clicked). The classes, groups, and other information shown here depend on the currently logged in user:
+<img src="./screenshots/phase-5/sign-in.png" width="25%">
+<img src="./screenshots/phase-5/register.png" width="25%">
+
+Currently, only valid email/password combinations that are in the database will allow a user to signin. After signing in, you are directed to your profile page, showing your currently enrolled classes or groups (depending on which button is clicked). The classes, groups, and other information shown here depend on the currently logged in user:
 
 <img src="./screenshots/phase-3/screenshot-1.png" width="25%">
 <img src="./screenshots/phase-3/screenshot-2.png" width="25%">
@@ -53,6 +54,7 @@ On the settings page, there are also buttons to create groups or view groups tha
 <img src="./screenshots/phase-1/screenshot-9.png" width="25%">
 <img src="./screenshots/phase-3/screenshot-8.png" width="25%">
 
+Everything in this version of the app is connected to a Firestore backend database. Authentication is also provided by Firebase.
 
 ## Installation
 Phase 1: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-1-mockup)
@@ -63,11 +65,14 @@ Phase 3: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-3-mo
 
 Phase 4: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-4-app)
 
+Phase 4: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-5-app)
+
+
 To run this code, clone the repository to your local machine and invoke 'flutter run' on the app directory. You may also need to first install flutter and get dependencies (this can be done easily with intelliJ). Note: app is currently mocked-up to look best on the XCODE iOS iPhone 14 simulator.
 
 ## [Development status](https://github.com/orgs/UHM-Social-Software/projects/1)
 
-The Phase-4 App is now complete. The app currently has a feature-first architecture and most crucial pages are mocked-up and connected to a Riverpod provider. Phase-5 is currently underway, which includes setting up a Firestore backend, upgrading user authentication, and continuing the UI development.
+The Phase-5 App is now complete. The app currently has the most important features implemented and connected to a Firestore backend database, including functional user authentication. Phase-6 is currently underway, which will start with finalizing the UI development and finish with deploying the app.
 
 ## About Us
 
