@@ -65,7 +65,7 @@ Phase 3: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-3-mo
 
 Phase 4: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-4-app)
 
-Phase 4: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-5-app)
+Phase 5: [Repository](https://github.com/UHM-Social-Software/app/tree/phase-5-app)
 
 
 To run this code, clone the repository to your local machine and invoke 'flutter run' on the app directory. You may also need to first install flutter and get dependencies (this can be done easily with intelliJ). Note: app is currently mocked-up to look best on the XCODE iOS iPhone 14 simulator.
