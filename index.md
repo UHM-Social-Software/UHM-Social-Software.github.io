@@ -74,6 +74,10 @@ To run this code, clone the repository to your local machine and invoke 'flutter
 
 The Phase-5 App is now complete. The app currently has the most important features implemented and connected to a Firestore backend database, including functional user authentication. Phase-6 is currently underway, which will start with finalizing the UI development and finish with deploying the app.
 
+## [Evaluation](evaluation.md)
+
+The goals and progress of the App's evaluation is summarized in the evaluation page. Click the link above to view.
+
 ## About Us
 
 [Justin Lisoway](https://justinlisoway.github.io/) - Graduate student at the University of Hawaiʻi at Mānoa studying Information and Computer Sciences. Graduated UH Manoa with an MS and BBA in finance.
