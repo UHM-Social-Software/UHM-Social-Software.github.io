@@ -65,7 +65,6 @@ On the settings page, there are also buttons to create new groups or view groups
 Clicking on the 'My Groups' button reveals a page listing all the groups that you own. Clicking on any of these groups reveals a page allowing you to edit group information including the image, description, upcoming events, and member list (delete members only).
 
 <img src="./screenshots/deployment/my-groups.png" width="25%">
-
 <img src="./screenshots/phase-3/screenshot-8.png" width="25%">
 
 Everything in this version of the app is connected to a Firestore backend database. Authentication is also provided by Firebase. This version of the app is also deployed using Apple Test Flight for initial user evaluation.
