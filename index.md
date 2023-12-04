@@ -93,7 +93,11 @@ Password: asdfasdf
 
 The Deployed App is now complete. The app currently has the most important features implemented and connected to a Firestore backend database, including functional user authentication. User Evaluation is currently underway, which will include sending the app to test users via Apple's Test Flight.
 
-## [Evaluation](evaluation.md)
+## Deployment
+
+The app is currently deployed on Apple's Test Flight. To be invited to test the latest version of the app, contact Justin Lisoway at jlisoway@hawaii.edu.
+
+## [Usability Evaluation](evaluation.md)
 
 A usability evaluation was conducted using 6 test participants. Its design and results are summarized in the evaluation page. Click the link above to view.
 
