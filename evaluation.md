@@ -1,4 +1,4 @@
-# "Aloha Campus" Usability Evaluation Design
+# "Aloha Campus" Usability Evaluation Report
 
 ## User Goals
 
@@ -12,34 +12,43 @@
 ### Scenario 1
 
 *Prompt*
+
 Imagine you are a student new to campus and want to find groups to join on campus. You decide to register for the "Aloha Campus" app.
 
 *Task*
+
 In the app, find a group that you might find interesting. If none interest you, try finding a group that someone you know might enjoy. View its details and join the group. Then, consider if this feature makes you feel more connected to campus life at UHM. 
 
 *Successful Behavior*
+
 Successful behavior would include the user either using the explore page or search feature to find new groups to join and viewing at least one group page before successfully joining a new group. By doing so, the user feels that they are more connected to campus life.
 
 ### Scenario 2
 
 *Prompt*
+
 Imagine are a student that needs to find a group member for two different classes (ICS 691D and ICS 613). It is only the second week of school and you can't remember all of the people in your classes.
 
 *Task*
+
 In the app, scroll through the classes of the test user and find someone that is taking both ICS 691D and ICS 613. Then, consider if this feature would make it easier for you to form connections with other students?
 
 *Successful Behavior*
+
 Successful behavior involves successfully viewing and browsing the test user's classes and viewing and browsing multiple other profiles of people reached from viewing the enrolment of the test user's classes. By doing so, the user finds someone to theoretically form a group with and finds it easier, in general, to form connections on campus by using the app.
 
 ### Scenario 3
 
 *Prompt*
+
 Imagine you are the leader of a newly founded finance club in Shidler that is looking to recruit freshman and sophomores. The club is called "Future Finance Pros", and members get access to talks with industry professionals and resume/interview guidance. Next month, you are having your first in person meet and greet.
 
 *Task*
+
 In the app, create a new group for your finance club. Input all the relevant details and make sure it is publicly visible after creating the club. Then, consider if you believe it will be easier to recruit underclassmen for your finance club by using the app. Do you think this feature makes campus life more lively and accessible?
 
 *Successful Behavior*
+
 Successful behavior includes successfully creating the group and adding all necessary details in the appropriate areas. By doing so, the user believes it will be easier to spread information about the group and recruit underclassmen to join. Furthermore, the user thinks that using this feature in the app makes campus life more lively and accessible.
 
 ## User Types
@@ -52,7 +61,7 @@ There is only one user type:
 
 ## Recruitment
 
-I have personally recruited 3 freshman and 1 transfer students at UH that will participate in the user evaluation. I have also recruited 2 additional upperclassmen (1 junior and 1 senior) that have attended UH for at least 4 semesters each. I have a personal connection to all participants through my involvement in UH Athletics.
+I have personally recruited 3 freshman and 1 transfer student at UH that will participate in the user evaluation. I have also recruited 2 additional upperclassmen (1 junior and 1 senior) that have attended UH for at least 4 semesters each. I have a personal connection to all participants through my involvement in UH Athletics.
 
 The recruitment process involved the project team asking potential users face-to-face if they would be willing to participate in the evaluation until enough participants were gathered. As well, only iPhone users were recruited, since the app is only deployed on Apple's Test Flight.
 
