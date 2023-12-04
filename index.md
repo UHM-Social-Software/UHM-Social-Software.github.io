@@ -95,7 +95,7 @@ The Deployed App is now complete. The app currently has the most important featu
 
 ## [Evaluation](evaluation.md)
 
-The goals and progress of the App's evaluation is summarized in the evaluation page. Click the link above to view.
+A usability evaluation was conducted using 6 test participants. Its design and results are summarized in the evaluation page. Click the link above to view.
 
 ## About The Team
 
