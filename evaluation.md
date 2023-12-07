@@ -201,7 +201,7 @@ This section outlines the raw data, which was directly inputted here during the 
 
 Generally, the user goals were accomplished, but this should be taken with a grain of salt, because test users envisioned a finalized version of the app when stating whether they thought the feature accomplished its related goal.
 
-This section identifies the top 3 usability/viability issues that the evaluation revealed. Issues have been created on the app's project board dedicated to solving these top issues.
+This section identifies the top 4 usability/viability issues that the evaluation revealed. Issues have been created on the app's project board dedicated to solving these top issues.
 
 ### [Exit Mobile Keyboard](https://github.com/UHM-Social-Software/app/issues/51)
 
